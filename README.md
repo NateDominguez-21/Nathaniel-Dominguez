@@ -35,7 +35,7 @@ Configured a Dante audio-over-IP network with Audinate Controller, resolving lat
 
 ## 📫 Let’s Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-username)
+- 🔗 [LinkedIn]([https://www.linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/nathaniel-dominguez-572978366/?trk=opento_sprofile_topcard))
 - 📧 NateDominguezTech [at] gmail [dot] com (or your preferred email)
 
 ---
