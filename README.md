@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nate Dominguez
+# 👋 Hi, I'm Nathaniel Dominguez
 
 I'm an **AWS-certified IT professional** with 3+ years of hands-on experience in system support, backend broadcast operations, and cloud services. I specialize in deploying and managing Linux-based infrastructure, working with AWS tools like EC2, S3, and IAM, and troubleshooting under live production pressure. Currently transitioning into a **Cloud/DevOps role**.
 
