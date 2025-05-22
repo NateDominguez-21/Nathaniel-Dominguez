@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Nathaniel Dominguez
+I'm Nathaniel Dominguez
 
 I'm an **AWS-certified IT professional** with 3+ years of hands-on experience in system support, backend broadcast operations, and cloud services. I specialize in deploying and managing Linux-based infrastructure, working with AWS tools like EC2, S3, and IAM, and troubleshooting under live production pressure. Currently transitioning into a **Cloud/DevOps role**.
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - **Cloud:** AWS (EC2, S3, IAM, VPC, CloudWatch)
 - **OS:** Linux (Ubuntu), Windows Server, macOS
@@ -14,30 +14,28 @@ I'm an **AWS-certified IT professional** with 3+ years of hands-on experience in
 
 ---
 
-## 📁 Featured Projects
+## Featured Projects
 
-### 🔹 [aws-web-server-deployment](https://github.com/NateDominguez-21/aws-web-server-deployment)
-Set up a public web server using AWS EC2 (Ubuntu), Apache, and S3. Used IAM and Security Groups for access control and CloudWatch for monitoring.
+### 🔹 [Live Braodcast case study][(https://github.com/NateDominguez-21/aws-web-server-deployment](https://github.com/NateDominguez-21/live-broadcast-ops-case-study))
+For the past 2+ years, I have worked as a Technical Operator supporting multiple weekly live-streamed events. My role focused on backend operations: starting and monitoring live streams, coordinating stream schedules, ensuring signal integrity, and resolving technical issues in real-time.
 
-### 🔹 [dante-network-setup](https://github.com/NateDominguez-21/dante-network-setup)
+### 🔹 [Jellyfin Media Server on AWS EC2]([https://github.com/NateDominguez-21/dante-network-setup](https://github.com/NateDominguez-21/jellyfin-server))
 Configured a Dante audio-over-IP network with Audinate Controller, resolving latency issues and managing remote production devices.
 
-(More coming soon — stay tuned 👷‍♂️)
 
 ---
 
-## 🎓 Certifications
+## Certifications
 
 - ✅ AWS Certified Cloud Practitioner (2025)
 - ✅ Dante Level 1 & Level 2 Certified (Audinate)
 
 ---
 
-## 📫 Let’s Connect
+## Let’s Connect
 
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/nathaniel-dominguez-572978366/?trk=opento_sprofile_topcard))
-- 📧 NateDominguezTech [at] gmail [dot] com (or your preferred email)
+- nate.dommedia@gmail.com
 
 ---
 
-🚀 *Actively building cloud projects and open to junior cloud or DevOps opportunities!*
+ *Actively building cloud projects and open to junior cloud or DevOps opportunities!*
