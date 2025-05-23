@@ -1,7 +1,7 @@
 ### Hello! I'm Nathaniel Dominguez
 
 I'm a certified AWS IT professional with 3+ years of hands-on experience in system support, backend broadcast operations, and cloud services. 
-My area of expertise is deploying and managing Linux-based infrastructure, working with AWS tools like EC2, S3, and IAM, and debugging under 
+I work best in deploying and managing Linux-based infrastructure, working with AWS tools like EC2, S3, and IAM, and debugging under 
 live production pressure. In the process of changing career to Cloud/DevOps.
 
 ### Tech Stack
