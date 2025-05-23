@@ -21,7 +21,7 @@ live production pressure. In the process of changing career to Cloud/DevOps.
   
 (https://github.com/NateDominguez-21/aws-web-server-deployment)
 
-The past 2+ years, I've worked as a Technical Operator on multiple weekly live-streamed programs. My responsibilities focused on backend tasks: initiating and watching live streams, coordinating stream schedules, signal quality, and real-time troubleshooting of technical issues.
+The past 2+ years, I've worked as a Technical Operator on multiple weekly live-streamed programs. My responsibilities focused on backend tasks: initiating and monitoring live streams, coordinating stream schedules, signal quality, and real-time troubleshooting of technical issues.
 
 ### Jellyfin Media Server on AWS EC2
 
